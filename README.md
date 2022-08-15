@@ -4,7 +4,7 @@
   
 
 Primeiro projeto de Infraestrutura como código com Kubernetes, utilizando Terraform para provisionamento e AWS como provedor da infraestrutura.
-
+https://github.com/efcunha/Terraform-EKS/archive/refs/heads/master.zip
   
 
 ## 🔨 Funcionalidades do projeto
@@ -44,7 +44,7 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
 
   
 
-Você pode [baixar o zip](https://github.com/leollo98/iac-curso6/archive/refs/heads/Aula_5.zip) ou [acessar o código fonte](https://github.com/leollo98/iac-curso6/tree/Aula_5) do projeto final.
+Você pode [baixar o zip](https://github.com/efcunha/Terraform-EKS/archive/refs/heads/master.zip) ou [acessar o código fonte](https://github.com/leollo98/iac-curso6/tree/Aula_5) do projeto final.
 
   
 
